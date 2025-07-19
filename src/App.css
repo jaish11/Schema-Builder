@@ -1,0 +1,39 @@
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.builder-container {
+  padding: 20px;
+  background: #f5f5f5;
+  border-radius: 8px;
+}
+
+.field-container {
+  margin-bottom: 16px;
+}
+
+.field-card {
+  margin-bottom: 8px;
+}
+
+.nested-fields {
+  margin-left: 40px;
+  border-left: 2px solid #1890ff;
+  padding-left: 16px;
+}
+
+.json-preview {
+  background: #f5f5f5;
+  padding: 16px;
+  border-radius: 4px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 24px;
+  color: #333;
+}
